@@ -3,7 +3,7 @@ Application that replace ngrok token
 
 # How to use
 
-Add your ngrok tokens to tokens.yml
+Add your ngrok auth tokens to tokens.yml
 
 ```
 tokens:
